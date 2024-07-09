@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - DeathZone
+  - Effect
+  - Enemy
+  - Walls
+  - Checkpoint
+  - EnemyHitBox
+  - Chest
+  - Traps
+  - Lift
+  - CollectibleItems
+  - Door
+  - loadingDisks
+  - UIButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - DeathZone
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - CollectibleItems
+  - Ground
+  - Walls
+  - EnemyHitBox
+  - Effects
+  - Props
+  - Checkpoint
+  - Traps
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2737270931
+    locked: 0
+  - name: Decor
+    uniqueID: 3202744747
+    locked: 0
+  - name: Player
+    uniqueID: 899820149
+    locked: 0
+  - name: Ground
+    uniqueID: 4254873435
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
